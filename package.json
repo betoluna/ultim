@@ -1,0 +1,16 @@
+{
+    "name": "tribble",
+    "version": "0.0.1",
+    "description": "a test node.js app for heroku",
+    "dependencies": {
+	"express": "3.3.x"
+    },
+    "engines": {
+	"node": "0.11.x",
+	"npm": "1.3.x"
+    },
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/betoluna/tribble.git"
+    }
+}
